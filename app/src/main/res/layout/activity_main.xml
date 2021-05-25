@@ -1,0 +1,39 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:orientation="vertical" >
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content">
+    <EditText
+        android:id="@+id/txt1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="IMRAN KHAN"
+        android:hint="ok" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:hint="PAssword" />
+    <Button
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:text="send" />
+    </LinearLayout>
+
+    <Button
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="640dp"
+        android:layout_marginLeft="280dp"
+        android:text="send" />
+
+</LinearLayout>
+

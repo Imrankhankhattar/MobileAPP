@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layout_margin">10dp</dimen>
+    <dimen name="layout_top">200dp</dimen>
+    <dimen name="day_height">57dp</dimen>
+    <dimen name="day_view_width">105dp</dimen>
+    <dimen name="day_view_width2">95dp</dimen>
+    <dimen name="condition_size">18sp</dimen>
+    <dimen name="condition_image_width">85dp</dimen>
+    <dimen name="main_layout_width"></dimen>
+    <dimen name="layout_1_height">170dp</dimen>
+    <dimen name="layout_2_height">115dp</dimen>
+    <dimen name="margin_btw_layout">6dp</dimen>
+    <dimen name="text_width_weather">60dp</dimen>
+    <dimen name="layout_2_width">105dp</dimen>
+    <dimen name="layout_2_text_size_1">25sp</dimen>
+    <dimen name="layout_2_text_size_2">20sp</dimen>
+    <dimen name="layout_2_image_height">55dp</dimen>
+    <dimen name="image_1_width">180dp</dimen>
+    <dimen name="image_1_height">140dp</dimen>
+    <dimen name="layout1_width">150dp</dimen>
+    <dimen name="temp_t_size">60sp</dimen>
+
+
+
+
+
+
+
+</resources>

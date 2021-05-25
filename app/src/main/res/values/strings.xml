@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">PractiseWeek4</string>
+    <string name="cityname">ATTOCK</string>
+    <string name="current_temp">15&#x2103;</string>
+    <string name="temp1">18/19&#x2103;</string>
+    <string name="temp2">19/20&#x2103;</string>
+    <string name="temp3">14/17&#x2103;</string>
+    <string name="temp4">16/17&#x2103;</string>
+    <string name="rain">Rainy</string>
+    <string name="cloud">Cloudy</string>
+    <string name="windy">Windy</string>
+    <string name="sun">Sunny</string>
+    <string name="Day1">Mon</string>
+    <string name="Day2">Tue</string>
+    <string name="Day3">Wed</string>
+    <string name="Day4">Thu</string>
+    <string name="Day5">Fri</string>
+    <string name="Day6">Sat</string>
+    <string name="layout_2_hum">28%</string>
+    <string name="layout_2_wind">9km/h</string>
+    <string name="layout_2_visi">2.1km</string>
+
+
+</resources>
