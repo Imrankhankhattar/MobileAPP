@@ -394,7 +394,7 @@
                 android:id="@+id/textView22"
                 android:layout_width="@dimen/day_view_width2"
                 android:layout_height="match_parent"
-                android:gravity="center"
+                android:gravity="center_horizontal|center"
                 android:text="@string/Day6"
                 android:textColor="@color/white"
                 android:textSize="@dimen/condition_size" />
