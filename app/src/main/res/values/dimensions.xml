@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="layout_margin">10dp</dimen>
+    <dimen name="layout_margin">8dp</dimen>
     <dimen name="layout_top">200dp</dimen>
     <dimen name="day_height">57dp</dimen>
     <dimen name="day_view_width">105dp</dimen>
-    <dimen name="day_view_width2">95dp</dimen>
+    <dimen name="day_view_width2">90dp</dimen>
     <dimen name="condition_size">18sp</dimen>
     <dimen name="condition_image_width">85dp</dimen>
     <dimen name="main_layout_width"></dimen>
